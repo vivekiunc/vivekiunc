@@ -9,10 +9,10 @@ Computer Science and Business student at UNC Chapel Hill, building systems where
 ### Featured projects
 
 **[hype](https://github.com/vivekiunc/hype): Oracle Latency and Rate-Limiting Arbitrage Research (HIP-3)**
-A simulation framework for studying adversarial interactions between retail liquidity providers and HFT arbitrageurs exploiting oracle latency on Hyperliquid perpetual futures. Streams fills from the Hyperliquid API, aligns them against Binance reference prices, and stores synchronized price traces in PostgreSQL. Python, asyncio, psycopg2.
+A simulation framework for studying adversarial interactions between retail liquidity providers and HFT arbitrageurs exploiting oracle latency on Hyperliquid perpetual futures. Streams fills from the Hyperliquid API, aligns them against Binance reference prices, and stores synchronized price traces in PostgreSQL. Python, Binance API, Hyperliquid API, asyncio, psycopg2.
 
 **[Tradfi-Perps-Collecter](https://github.com/vivekiunc/Tradfi-Perps-Collecter): TradFi perpetual-futures universe**
-A data-collection pipeline that catalogues every TradFi-underlying perpetual future (single stocks, ETFs, commodities, FX, indices, pre-IPO) listed across crypto exchanges. Cross-checks ten direct exchange APIs against CoinMarketCap, drops venues flagged as unverified, and runs itself daily to produce an underlying-by-exchange volume matrix. Python, pandas, BeautifulSoup.
+A data-collection pipeline that catalogues every TradFi-underlying perpetual future (single stocks, ETFs, commodities, FX, indices, pre-IPO) listed across crypto exchanges. Cross-checks ten direct exchange APIs against CoinMarketCap, drops venues flagged as unverified, and runs itself daily to produce an underlying-by-exchange volume matrix. Python, pandas.
 
 **[cdc_2025](https://github.com/eshaanraj/cdc_2025): Space Economy Forecasting Dashboard**
 Carolina Data Challenge team project (1st of 142 teams). A Streamlit dashboard that forecasts industry time series with Holt exponential smoothing and lets you explore projections by sector. Python, Streamlit, statsmodels.
