@@ -17,6 +17,10 @@ A data-collection pipeline that catalogues every TradFi-underlying perpetual fut
 **[cdc_2025](https://github.com/eshaanraj/cdc_2025): Space Economy Forecasting Dashboard**
 Carolina Data Challenge team project (1st of 142 teams). A Streamlit dashboard that forecasts industry time series with Holt exponential smoothing and lets you explore projections by sector. Python, Streamlit, statsmodels.
 
+### Currently building
+
+**Trading Bot**: Building a gradient-boosted tree model for cross-sectional US equity return prediction. The model engineers factor-based features from the asset pricing literature, centered on momentum, liquidity, and volatility signals, then ranks stocks into a long-short portfolio. My focus is on honest validation, using purged and embargoed cross-validation along with realistic transaction costs, so the backtested results reflect a real edge rather than overfit noise.
+
 ### What I work on
 
 - Market microstructure and quantitative research: perpetual futures, DeFi, execution
@@ -29,6 +33,10 @@ Carolina Data Challenge team project (1st of 142 teams). A Streamlit dashboard t
 - **Data and ML:** pandas, NumPy, statsmodels, PostgreSQL, DuckDB
 - **Infrastructure:** Docker, AWS, Kubernetes / OpenShift
 - **Web:** React, Next.js, FastAPI
+
+### Currently Learning
+- **Languages:** C++
+- **Frameworks:** LangChain
 
 ### Reach me
 
