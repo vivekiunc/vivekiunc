@@ -2,7 +2,7 @@
 
 Computer Science and Business student at UNC Chapel Hill, building systems where software meets markets and the physical world. I work across quantitative research, ML infrastructure, and full-stack engineering.
 
-- Quantitative research assistant studying crypto market microstructure and perpetual futures
+- Quantitative research assistant studying crypto market microstructure, perpetual futures, and nlp methods for low-resource languages
 - IBM Watson Scholar, and part of the team that placed 1st of 142 at the Carolina Data Challenge
 - Currently focused on low-latency systems, data pipelines, and applied machine learning
 
@@ -26,6 +26,7 @@ Carolina Data Challenge team project (1st of 142 teams). A Streamlit dashboard t
 - Market microstructure and quantitative research: perpetual futures, DeFi, execution
 - Data pipelines and backend systems
 - ML infrastructure and retrieval systems
+- RAG Systems and end-to-end development
 
 ### Tech
 
