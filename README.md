@@ -31,8 +31,8 @@ Carolina Data Challenge team project (1st of 142 teams). A Streamlit dashboard t
 ### Tech
 
 - **Languages:** Python, Java, SQL
-- **Data and ML:** pandas, NumPy, statsmodels, PostgreSQL, DuckDB
-- **Infrastructure:** Docker, AWS, Kubernetes / OpenShift
+- **Data and ML:** pandas, NumPy, statsmodels, PostgreSQL, ChromaDB
+- **Infrastructure:** Azure
 - **Web:** React, Next.js, FastAPI
 
 ### Currently Learning
