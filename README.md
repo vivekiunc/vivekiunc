@@ -8,6 +8,9 @@ Computer Science and Business student at UNC Chapel Hill, building systems where
 
 ### Featured projects
 
+**Farmer Bot: Chatbot designed for farmers in low-resource languages(Marathi & Telugu) contexts in India**
+Designed a RAG pipeline that lets farmers ask spoken agricultural questions in Marathi and Telugu and receive answers grounded in trusted agricultural documents and local context such as crop, season, region, and weather. The system uses Whisper for speech recognition, LangChain to orchestrate the pipeline, Azure OpenAI embeddings, and ChromaDB for retrieval. Moreover, the project evaluates how ASR errors and retrieval failures affect answer accuracy, with a fairness focus across dialects, accents, and background noise. Built as part of an independent study with UNC's Society-Centered AI Lab (SAIL).
+
 **[hype](https://github.com/vivekiunc/hype): Oracle Latency and Rate-Limiting Arbitrage Research (HIP-3)**
 A simulation framework for studying adversarial interactions between retail liquidity providers and HFT arbitrageurs exploiting oracle latency on Hyperliquid perpetual futures. Streams fills from the Hyperliquid API, aligns them against Binance reference prices, and stores synchronized price traces in PostgreSQL. Python, Binance API, Hyperliquid API, asyncio, psycopg2.
 
