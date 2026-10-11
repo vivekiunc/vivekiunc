@@ -1,10 +1,13 @@
 ## Hi, I'm Vivek
 
-Computer Science and Business student at UNC Chapel Hill, building systems where software meets markets and the physical world. I work across quantitative research, ML infrastructure, and full-stack engineering.
+Computer Science and Business student at UNC Chapel Hill, building systems where software meets markets and the physical world. I work across quantitative research, full-stack development, and AI/ML infrastructure.
 
-- Quantitative research assistant studying crypto market microstructure, perpetual futures, and nlp methods for low-resource languages
+Honors/Awards: IBM Watson Scholar, Honors Carolina, Assured Admit to School of Information Science and Data Science
+
+- Doing data analytics with Dr. Donghwa Shin, studying crypto market microstructure and perpetual futures,
+- Studying nlp methods for low-resource languages, particulary in the context of regional languages in India(Marathi and Telugu)
 - IBM Watson Scholar, and part of the team that placed 1st of 142 at the Carolina Data Challenge
-- Currently focused on low-latency systems, data pipelines, and applied machine learning
+- Currently focused on system architecture and backend development
 
 ### Featured projects
 
@@ -36,7 +39,7 @@ Carolina Data Challenge team project (1st of 142 teams). A Streamlit dashboard t
 - **Languages:** Python, Java, SQL
 - **Data and ML:** pandas, NumPy, statsmodels, PostgreSQL, ChromaDB
 - **Infrastructure:** Azure
-- **Web:** React, Next.js, FastAPI
+- **Web:** React, Django, FastAPI
 
 ### Currently Learning
 - **Languages:** C++
